@@ -50,8 +50,13 @@ body {
   text-align: center;
   text-decoration: none;
   color: white;
-  margin: 0 20px;
+  margin: 16px 20px;
   padding: 0px auto;
+}
+
+.activeLink{
+  color: rgba(39, 245, 238, 0.62);
+  border-bottom: 2px solid rgba(39, 245, 238, 0.62);
 }
 
 .projectLink {
